@@ -11,6 +11,7 @@ Gem::Specification.new do |gem|
 
   gem.version           = RSpectacular::VERSION
   gem.platform          = Gem::Platform::RUBY
+  gem.license           = 'MIT'
 
   gem.authors           = %w{jfelchner}
   gem.email             = 'accounts+git@thekompanee.com'
